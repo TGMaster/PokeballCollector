@@ -22,5 +22,6 @@ This is a 2D RPG game. The object of the game is to control a man around the scr
 - Add map selection in menu
 
 **Screenshots:**
+
 ![alt text](https://github.com/TGMaster/PokeballCollector/raw/master/images/1.png)
 ![alt text](https://github.com/TGMaster/PokeballCollector/raw/master/images/2.png)
